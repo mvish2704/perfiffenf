@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi there !!!
 =======
 change 1 is added
 change two is added . 
 change 3 is added .
 >>>>>>> 6f50fbeef6f520edf66858ca009bf8b5b2b2df5e
+=======
+change 1 is added
+change two is added . 
+change 3 is added .
+change 4is added
+>>>>>>> 7e23326c4c20cee420ff13f1881aeebf6476b9b9
